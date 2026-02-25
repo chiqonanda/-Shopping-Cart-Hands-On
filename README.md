@@ -1,3 +1,7 @@
-# pt_4_5
+# Shopping Cart Flutter App
 
-A new Flutter project.
+Aplikasi e-commerce sederhana dengan fitur:
+- Add to cart
+- Search
+- Category filter
+- Checkout page
