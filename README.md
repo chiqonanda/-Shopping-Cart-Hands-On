@@ -10,3 +10,18 @@ Aplikasi e-commerce sederhana dengan fitur:
 - Checkout page
 
 # Dokumentasi Aplikasi
+
+<img width="463" height="913" alt="image" src="https://github.com/user-attachments/assets/12ac05a1-7369-4d26-b98f-45d07611e085" />
+
+<img width="466" height="655" alt="image" src="https://github.com/user-attachments/assets/473ab038-43e2-40b8-9b9f-3c8fb910035b" />
+
+<img width="466" height="902" alt="image" src="https://github.com/user-attachments/assets/d38f6bd0-f5cf-450e-996f-a2af46710214" />
+
+
+<img width="457" height="1064" alt="image" src="https://github.com/user-attachments/assets/c902ed14-c007-4410-a057-b76b1b61a5e0" />
+
+<img width="468" height="579" alt="image" src="https://github.com/user-attachments/assets/1476f702-1855-4670-b52f-55984b8f3895" />
+
+
+
+
